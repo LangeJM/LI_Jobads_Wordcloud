@@ -15,7 +15,9 @@
 - A list with the libraries to install can be found [here](https://github.com/LangeJM/Selenium_Blinkist/blob/master/requirements.txt)
 - Selenium webdriver for Firefox, [Geckodriver](https://github.com/mozilla/geckodriver/releases)
 - Run and tested with postgreSQL 12 and pgAdmin4
-```You will be prompted for a text file with db details, such as below:
+```
+#You will be prompted for a text file with db details, such as below:
+
 database=postgres
 user=username
 password=1234pwd
@@ -46,6 +48,8 @@ Also, the results of the wordcloud will be much improved if you provide [stopwor
 
 #### Wordcloud Examples:
 ![](wordcloud.png)
+
+
 
 
 ![](wordcloud0.png)
