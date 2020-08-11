@@ -10,11 +10,12 @@
 3. Creates and saves word cloud as png file from job ads content
 
 #### What you need to run the script: 
-- LinkedIn login and search url (such as: https://www.linkedin.com/jobs/search/?geoId=101620260&keywords=qa%20automation%20lead&location=Israel)
+- LinkedIn login and search url 
+(such as: https://www.linkedin.com/jobs/search/?geoId=101620260&keywords=qa%20automation%20lead&location=Israel)
 - Run and tested on Windows environment and Python 3.8
-- A list with the libraries to install can be found [here](https://github.com/LangeJM/Selenium_Blinkist/blob/master/requirements.txt)
+- A bunch of libraries >> [list with libraries to install](https://github.com/LangeJM/Selenium_Blinkist/blob/master/requirements.txt)
 - Selenium webdriver for Firefox, [Geckodriver](https://github.com/mozilla/geckodriver/releases)
-- Run and tested with postgreSQL 12 and pgAdmin4
+- Run and tested with [postgreSQL 12](https://www.postgresql.org/about/news/1976/) and [pgAdmin4](https://www.pgadmin.org/download/)
 ```
 #You will be prompted for a text file with db details, such as below:
 
@@ -47,9 +48,8 @@ To not lose any information, the progress is saved to a txt file and to the db r
 Also, the results of the wordcloud will be much improved if you provide [stopwords](https://github.com/LangeJM/LI_Jobads_Wordcloud/blob/master/example_stopwords.txt) and [phrases/terms to exclude](https://github.com/LangeJM/LI_Jobads_Wordcloud/blob/master/example_exclusions.txt). These will be queried via file dialog as well.
 
 #### Wordcloud Examples:
+
 ![](wordcloud.png)
-
-
-
-
+<br />
+<br />
 ![](wordcloud0.png)
