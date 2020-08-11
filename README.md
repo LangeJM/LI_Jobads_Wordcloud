@@ -2,7 +2,7 @@
 
 ### Create a word cloud from LinkedIn job ads
 
-#### Still in the beginning of my coding journey, so please bare with me.
+#### *Still in the beginning of my coding journey, so please bare with me.*
 
 #### What the script does, step-by-step:
 1. Starts selenium Firefox session and acquires job ads based on provided search url
