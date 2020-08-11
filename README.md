@@ -13,7 +13,7 @@
 - LinkedIn login and search url <br />
 (such as: https://www.linkedin.com/jobs/search/?geoId=101620260&keywords=qa%20automation%20lead&location=Israel)
 - Run and tested on Windows environment and Python 3.8
-- A bunch of libraries >> [list with libraries to install](https://github.com/LangeJM/Selenium_Blinkist/blob/master/requirements.txt)
+- A bunch of libraries [(list with libraries to install)](https://github.com/LangeJM/Selenium_Blinkist/blob/master/requirements.txt)
 - Selenium webdriver for Firefox, [Geckodriver](https://github.com/mozilla/geckodriver/releases)
 - Run and tested with [postgreSQL 12](https://www.postgresql.org/about/news/1976/) and [pgAdmin4](https://www.pgadmin.org/download/)
 ```
@@ -50,8 +50,6 @@ Also, the results of the wordcloud will be much improved if you provide [stopwor
 #### Wordcloud Examples:
 
 ![](wordcloud.png)
-<br />
-<br />
 <br />
 <br />
 <br />
